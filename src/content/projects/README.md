@@ -8,14 +8,14 @@ The filename (without `.md`) is the URL slug, e.g. `pantypes-speech.md` →
 
 ```md
 ---
-title: Self-explainable representations for speech
+title: Evaluation and benchmarking of speech in Danish and clinical settings
 level: MSc
 status: Ongoing            # Open | Ongoing | Completed
 year: 2026
 team:
-  - Alice Andersen
-  - Bjørn Berg
-tags: [XAI, speech, representation learning]
+  - Line Clemmensen
+  - Sneha Das
+tags: [XAI, speech, representation learning, fairness, bias]
 links:
   - label: GitHub
     url: https://github.com/...
