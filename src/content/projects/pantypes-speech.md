@@ -7,7 +7,6 @@ team:
   - Student name TBA (joint with Interhuman AI)
 tags: [representation learning, multi modal, behvaioral models, XAI]
 links: []
-  - label: []
 
 abstract: >
   Machine Learning models are typically hungry for precise data. However, in our current video dataset, human annotators provided "weak labels"—tagging a segment as "Positive Signal" without specifying if the cue was visual (e.g., a smile), audio (e.g., a laugh), or both. This ambiguity prevents us from training specific, interpretable models for each modality.
