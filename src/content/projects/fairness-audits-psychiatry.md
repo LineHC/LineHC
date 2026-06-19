@@ -1,5 +1,5 @@
 ---
-title: Fairness audits for clinical ML in psychiatry
+title: Fairness audits for peech models in psychiatry
 level: MSc
 status: Open
 year: 2026
